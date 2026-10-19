@@ -1,0 +1,4 @@
+body { font: 16px/1.5 system-ui, sans-serif; margin: 0; color: #111; }
+.top { padding: 2rem; border-bottom: 1px solid #ddd; }
+.banner { padding: 2rem; background: #f4f4f4; }
+main, footer { padding: 2rem; }
